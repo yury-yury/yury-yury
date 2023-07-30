@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=yury-yury&style=flat-square&color=blue" alt=""/>
 </div>
 
-### Hi there 👋
+## 👋 Hello guest! Here are the modest results of my work. I hope there will be more interesting projects to come...
 
 <!--
 **yury-yury/yury-yury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
